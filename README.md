@@ -54,3 +54,6 @@
 
 # Resultado do lovable
 https://meu-dinheiro-amigavel.lovable.app
+
+# Conclusão
+Utilizei o prompt sem ajustes. Minha intenção foi justamente ver o que aconteceria. O resultado foi ficou muito bom apesar do mínimo esforço.
